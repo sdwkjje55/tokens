@@ -1,0 +1,11 @@
+{
+ "name": "metauniverse",
+ "website": "https://www.metauniverse.website",
+ "description": "MUV is issued by a team dedicated to the development of GAMEFI games and meta-universe.",
+ "explorer": "https://bscscan.com/token/0x69277a4bf9e5b4964826d62462942977fe0df638",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "MUV",
+ "id": "0x69277a4bf9e5b4964826d62462942977fe0df638"
+}
